@@ -1,0 +1,6 @@
+[includeIf "gitdir:~/git/ghe/"]
+  path = .gitconfig-rakuten
+[includeIf "gitdir:~/git/bitbucket/"]
+  path = .gitconfig-rakuten
+[includeIf "gitdir:~/git/github/"]
+  path = .gitconfig-personal
